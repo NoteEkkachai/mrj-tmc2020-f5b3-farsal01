@@ -1,0 +1,22 @@
+{
+    "name": "MRJ-TMC2020-F5B3-FarSal01",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "iBIT": "github:emwta/pxt-ibit#v4.0.10",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
